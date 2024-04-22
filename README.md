@@ -1,2 +1,3 @@
-# my-design
-code
+# my first github learnig
+<br>
+Author-Krishna Mali
